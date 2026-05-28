@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--
 MIT License
 
@@ -37,9 +37,9 @@ SOFTWARE.
   <pin index="10" name ="sws_4bits_tri_i_2" iostandard="LVCMOS33" loc="W13"/>
   <pin index="11" name ="sws_4bits_tri_i_3" iostandard="LVCMOS33" loc="T16"/>
   <pin index="12" name ="sys_clk" iostandard="LVCMOS33" loc="K17"/>
-  
+
   <pin index="13" name ="hdmi_rx_hpd" iostandard="LVCMOS33" loc="W19"/>
-  
+
   <pin index="14" name ="TMDS_IN_clk_p" iostandard="TMDS_33" loc="U18"/>
   <pin index="15" name ="TMDS_IN_clk_n" iostandard="TMDS_33" loc="U19"/>
   <pin index="16" name ="TMDS_IN_data_p_0" iostandard="TMDS_33" loc="V20"/>
@@ -47,10 +47,10 @@ SOFTWARE.
   <pin index="18" name ="TMDS_IN_data_p_2" iostandard="TMDS_33" loc="N20"/>
   <pin index="19" name ="TMDS_IN_data_n_0" iostandard="TMDS_33" loc="W20"/>
   <pin index="20" name ="TMDS_IN_data_n_1" iostandard="TMDS_33" loc="U20"/>
-  <pin index="21" name ="TMDS_IN_data_n_2" iostandard="TMDS_33" loc="P20"/> 
-  
+  <pin index="21" name ="TMDS_IN_data_n_2" iostandard="TMDS_33" loc="P20"/>
+
   <pin index="22" name ="hdmi_tx_hpd" iostandard="LVCMOS33" loc="E18"/>
-  
+
   <pin index="23" name ="TMDS_OUT_clk_p" iostandard="LVCMOS33" loc="H16"/>
   <pin index="24" name ="TMDS_OUT_clk_n" iostandard="LVCMOS33" loc="H17"/>
   <pin index="25" name ="TMDS_OUT_data_p_0" iostandard="LVCMOS33" loc="D19"/>
@@ -59,14 +59,14 @@ SOFTWARE.
   <pin index="28" name ="TMDS_OUT_data_n_0" iostandard="LVCMOS33" loc="D20"/>
   <pin index="29" name ="TMDS_OUT_data_n_1" iostandard="LVCMOS33" loc="B20"/>
   <pin index="30" name ="TMDS_OUT_data_n_2" iostandard="LVCMOS33" loc="A20"/>
-  
+
   <pin index="31" name ="hdmi_in_ddc_scl" iostandard="LVCMOS33" loc="W18"/>
-  <pin index="32" name ="hdmi_in_ddc_sda" iostandard="LVCMOS33" loc="Y19"/> 
-  
-  <pin index="36" name ="rgb_led_tri_o_3" iostandard="LVCMOS33" loc="M17"/>	
-  <pin index="37" name ="rgb_led_tri_o_4" iostandard="LVCMOS33" loc="F17"/>  
-  <pin index="38" name ="rgb_led_tri_o_5" iostandard="LVCMOS33" loc="V16"/> 
-  
+  <pin index="32" name ="hdmi_in_ddc_sda" iostandard="LVCMOS33" loc="Y19"/>
+
+  <pin index="36" name ="rgb_led_tri_o_3" iostandard="LVCMOS33" loc="M17"/>
+  <pin index="37" name ="rgb_led_tri_o_4" iostandard="LVCMOS33" loc="F17"/>
+  <pin index="38" name ="rgb_led_tri_o_5" iostandard="LVCMOS33" loc="V16"/>
+
   <pin index="39" name ="JA1" iostandard="LVCMOS33" loc="N15"/>
   <pin index="40" name ="JA2" iostandard="LVCMOS33" loc="L14"/>
   <pin index="41" name ="JA3" iostandard="LVCMOS33" loc="K16"/>
@@ -75,7 +75,7 @@ SOFTWARE.
   <pin index="44" name ="JA8" iostandard="LVCMOS33" loc="L15"/>
   <pin index="45" name ="JA9" iostandard="LVCMOS33" loc="J16"/>
   <pin index="46" name ="JA10" iostandard="LVCMOS33" loc="J14"/>
-  
+
   <pin index="55" name ="JC1" iostandard="LVCMOS33" loc="V15"/>
   <pin index="56" name ="JC2" iostandard="LVCMOS33" loc="W15"/>
   <pin index="57" name ="JC3" iostandard="LVCMOS33" loc="T11"/>
@@ -84,7 +84,7 @@ SOFTWARE.
   <pin index="60" name ="JC8" iostandard="LVCMOS33" loc="Y14"/>
   <pin index="61" name ="JC9" iostandard="LVCMOS33" loc="T12"/>
   <pin index="62" name ="JC10" iostandard="LVCMOS33" loc="U12"/>
-  
+
   <pin index="63" name ="JD1" iostandard="LVCMOS33" loc="T14"/>
   <pin index="64" name ="JD2" iostandard="LVCMOS33" loc="T15"/>
   <pin index="65" name ="JD3" iostandard="LVCMOS33" loc="P14"/>
@@ -93,7 +93,7 @@ SOFTWARE.
   <pin index="68" name ="JD8" iostandard="LVCMOS33" loc="U15"/>
   <pin index="69" name ="JD9" iostandard="LVCMOS33" loc="V17"/>
   <pin index="70" name ="JD10" iostandard="LVCMOS33" loc="V18"/>
-  
+
   <pin index="71" name ="JE1" iostandard="LVCMOS33" loc="V12"/>
   <pin index="72" name ="JE2" iostandard="LVCMOS33" loc="W16"/>
   <pin index="73" name ="JE3" iostandard="LVCMOS33" loc="J15"/>
